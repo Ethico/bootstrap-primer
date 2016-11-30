@@ -9,3 +9,7 @@ Understanding  bootstrap framework.
 * getstarted.html
 * grid-system.html
 * typography.html
+* table.html
+* images.html
+* jumbotron.html
+* alerts.html
